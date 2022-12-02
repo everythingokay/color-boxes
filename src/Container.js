@@ -17,7 +17,6 @@ class Container extends Component {
             "#E2D7A7",
             "#709F9D",
             "#567D89"
-            
         ]
     };
     render() {
